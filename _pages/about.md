@@ -4,26 +4,30 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+Based in sunny Singapore.
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+## Experience
 
-## Features
+Currently leading product management at PI.EXCHANGE, an AutoML startup seeking to make AI accessible for everyone. 
+Focused on honing my craft and building delightful products for users.  
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+Previously spent 5 years in Strategy & Operations, working with C-suite.
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+Transitioned to Product Management out of a desire to:
+- Work in tech: firm believer in a tech-driven future, and an avid self-learner of tech
+- Be in the driving seat for building successful products
+- Leverage my deep experience in problem-solving, stakeholder management, project management, strategy, leading teams, and effective communication.
+
+Global work experience in Singapore, Indonesia, and China.
+Industry experience in Palm Oil, Soybean, Oleochemicals, Consumer Packaged Goods, Distribution, and Supply Chain.
+
+## Favourite Quotes
+
+On Product
+> If your product suceeds, it is because of everyone's efforts. If your product fails, it is because your Product team is not good.
+
+On Strategy
+> Customers first, employees second, and shareholders third. - Jack Ma
+
+On Leadership
+> Regard your soldiers as your children and they will follow you into the deepest valleys; look upon them as your own beloved sons, and they will stand by you even unto death. - Sun Tzu
