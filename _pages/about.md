@@ -8,7 +8,7 @@ Based in sunny Singapore. Proud father of one. =)
 
 ## Experience
 
-Currently leading product management at PI.EXCHANGE, an AutoML startup seeking to make AI accessible for everyone. Focused on honing my craft and building delightful products for users.  
+Currently leading product management at [PI.EXCHANGE](https://pi.exchange/), an AutoML startup seeking to make AI accessible for everyone. Focused on honing my craft and building delightful products for users.  
 
 Previously spent 5 years in Strategy & Operations, working with C-suite.
 
@@ -24,12 +24,12 @@ Industry experience in Palm Oil, Soybean, Oleochemicals, Consumer Packaged Goods
 
 *On Product*
 
-If your product suceeds, it is because of everyone's efforts. If your product fails, it is because your Product team is not good.
+> If your product suceeds, it is because of everyone's efforts. If your product fails, it is because your Product team is not good.
 
 *On Strategy*
 
-Customers first, employees second, and shareholders third. - Jack Ma
+> Customers first, employees second, and shareholders third. - Jack Ma
 
 *On Leadership*
 
-Regard your soldiers as your children and they will follow you into the deepest valleys; look upon them as your own beloved sons, and they will stand by you even unto death. - Sun Tzu
+> Regard your soldiers as your children and they will follow you into the deepest valleys; look upon them as your own beloved sons, and they will stand by you even unto death. - Sun Tzu
